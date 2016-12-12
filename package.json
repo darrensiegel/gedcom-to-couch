@@ -1,0 +1,14 @@
+{
+  "name": "gedcom",
+  "version": "1.0.0",
+  "description": "gedcom v5.5 standard parser",
+  "main": "gedcom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parse-gedcom": "^1.0.3"
+  }
+}
